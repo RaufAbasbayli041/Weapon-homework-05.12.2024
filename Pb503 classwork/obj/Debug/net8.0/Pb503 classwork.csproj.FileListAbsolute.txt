@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\bin\Debug\net8.0\Pb503 classwork.exe
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\bin\Debug\net8.0\Pb503 classwork.deps.json
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\bin\Debug\net8.0\Pb503 classwork.runtimeconfig.json
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\bin\Debug\net8.0\Pb503 classwork.dll
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\bin\Debug\net8.0\Pb503 classwork.pdb
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\obj\Debug\net8.0\Pb503 classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\obj\Debug\net8.0\Pb503 classwork.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\obj\Debug\net8.0\Pb503 classwork.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\obj\Debug\net8.0\Pb503 classwork.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\obj\Debug\net8.0\Pb503 classwork.dll
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\obj\Debug\net8.0\refint\Pb503 classwork.dll
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\obj\Debug\net8.0\Pb503 classwork.pdb
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\obj\Debug\net8.0\Pb503 classwork.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 01.12.2024\Pb503 classwork\Pb503 classwork\obj\Debug\net8.0\ref\Pb503 classwork.dll
